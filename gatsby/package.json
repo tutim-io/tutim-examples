@@ -1,0 +1,23 @@
+{
+  "name": "gatsby",
+  "version": "5.0.0",
+  "private": true,
+  "browserslist": [
+    ">0.25%",
+    "not dead"
+  ],
+  "dependencies": {
+    "@tutim/headless": "latest",
+    "@tutim/types": "latest",
+    "gatsby": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  }
+}

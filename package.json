@@ -1,0 +1,20 @@
+{
+  "name": "tutim-examples",
+  "version": "0.0.0",
+  "description": "form infrastructure for web applications - examples",
+  "author": "Tutim <eylon@tutim.io>",
+  "homepage": "https://tutim.io",
+  "license": "MIT",
+  "repository": "https://github.com/tutim-io/tutim",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "form",
+    "form-builder",
+    "form-infrastructure",
+    "tutim",
+    "headless-forms",
+    "hook-form",
+    "react"
+  ]
+}
